@@ -5,4 +5,4 @@ kodu çalıştıramayanlar chatgpt den yardım alsın.
 
 Tek yapmanız gereken token,webhook bilgilerini girip sonra 12. 13. 129. 159. 189.  143.  satırlarını doldurmak
 
-bu botu kesinlikle satmak satış yapmak yasaktır eğer böyle bir durum varsa discord: dextro66. ya yazın
+bu botu kesinlikle satmak satış yapmak yasaktır
